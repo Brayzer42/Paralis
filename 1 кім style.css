@@ -1,0 +1,55 @@
+body{
+    background-image: url(cim\ 1.PNG);
+    background-color: black;
+   
+    background-size:1690px 950px;
+      background-repeat: no-repeat;
+      
+}
+button{
+    font-family: "Pixelify Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+}
+.a{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(36, 36, 36);
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.b{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+    margin-top:160px ;
+    margin-left: 900px;
+    width: 40px;
+    height: 40px;
+
+}
+.c{
+    margin-left: 710px;
+    margin-top: 350px;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+   
+}
+.d{
+    margin-left: 775px;
+    margin-top: 182px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(65, 43, 2, 0.192);
+    border: solid rgba(0, 0, 0, 0) 1px;
+    
+}
+.i{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+}

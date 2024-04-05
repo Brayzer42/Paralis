@@ -1,0 +1,49 @@
+body{
+    background-image: url(cam\ 2.jpg);
+    background-color: black;
+   
+    background-size:1690px 950px;
+      background-repeat: no-repeat;
+}
+.a{ 
+      
+      background-color: rgba(5, 5, 5, 0.014);
+    color: rgb(51, 51, 51);
+    
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.c{
+    margin-left: 710px;
+    margin-top: 350px;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+.b{
+margin-top: 170px;
+margin-left: 640px;
+width: 40px;
+height: 40px;
+background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+}
+.d{
+    margin-left: 1200px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+}

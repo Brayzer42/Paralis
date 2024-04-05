@@ -1,0 +1,32 @@
+body{
+    background-image: url(lis\ 8_2.PNG );
+background-color: black;
+
+background-size:1690px 950px;
+background-repeat: no-repeat;
+}
+button{
+    margin-top: 241px;
+margin-left:420px;
+font-family: "Pixelify Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+width: 80px;
+height: 40px;
+font-size: 20px;
+background-color:rgba(0, 0, 0, 0);
+color: rgb(80, 73, 63);
+border: solid rgba(184, 184, 151, 0) 1px;}
+
+  p{  
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+    font-size: 15px;
+    margin-top:20px;
+    margin-left:500px ;
+    color: rgb(0, 0, 0);  
+  }   

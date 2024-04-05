@@ -1,0 +1,36 @@
+body{
+    background-image: url(cfm\ 5.jpg );
+    background-color: black;
+   
+    background-size:1690px 950px;
+      background-repeat: no-repeat;
+}
+.a{
+    background-color: rgba(5, 5, 5, 0.014);
+    color: rgb(94, 93, 93);
+    
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.b{
+    margin-left:790px ;
+    margin-top: 360px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(255, 255, 255, 0) 1px;
+}
+ 
+.c{
+    margin-left: 970px;
+    margin-top: 340px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(255, 255, 255, 0) 1px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(1, 1, 17);
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: white;
+}
+div{
+    margin-top: 200px;
+}
+.a{
+    color: rgba(0, 0, 0, 0.315);
+}
+button{
+    color: white;
+    background-color: rgba(75, 75, 75, 0.466);
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    width: 200px;
+    height: 45px;
+   
+    
+  }

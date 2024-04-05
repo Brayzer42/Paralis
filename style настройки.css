@@ -1,0 +1,53 @@
+body{
+    background-image: url(Set.PNG);
+    background-color: black;
+   
+   background-size:1690px 950px;
+     background-repeat: no-repeat;
+
+}
+
+
+h1{color: rgb(175, 175, 175);
+     font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 290px;
+   
+}
+button{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(77, 77, 77) ;
+    color: rgb(255, 250, 250) ;
+    
+    margin-top: 220px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+ }
+ h2{
+ color: rgb(175, 175, 175);
+  
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ font-size: 29px;
+  }
+  .a{
+    background-color: rgb(147, 147, 147);
+  }
+  input{
+    label {
+      font:
+        1rem 'Fira Sans',
+        sans-serif;
+    }
+    
+    input {
+      margin: 0.4rem;
+    }
+  }

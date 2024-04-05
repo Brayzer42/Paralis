@@ -1,0 +1,41 @@
+body{
+    background-image: url(розмова\ з\ босом.PNG);
+    background-color: black;
+   
+   background-size:1690px 950px;
+     background-repeat: no-repeat;
+}
+h1{color: rgb(175, 175, 175);
+    font-family: "Pixelify Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+margin-top:650px ;
+margin-left: 40px;
+}
+.a{ width: 80px;
+    height: 40px;
+    background-color: rgb(94, 46, 12);
+    color: rgb(60, 28, 6);
+    
+   
+    margin-top: 90px;
+    margin-left: 1590px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+font-size: 20px;}
+.b{
+    width: 80px;
+    height: 40px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+font-size: 15px;
+      background-color: rgb(79, 27, 102) ;
+    color: rgb(21, 1, 40) ;
+    margin-top: 10px;
+    margin-left:10px ;
+    font-size: 20px;
+}

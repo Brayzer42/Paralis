@@ -1,0 +1,46 @@
+body{
+    background-image: url(cam3.PNG);
+    background-color: black;
+   
+    background-size:1690px 950px;
+      background-repeat: no-repeat;
+}
+.a{
+    background-color: rgba(5, 5, 5, 0.014);
+    color: rgb(44, 44, 44);
+    
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.b{
+ margin-top: 270px;
+ margin-left: 355px;
+ background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+    width: 40px; ;
+    height: 40px; ;
+
+}
+.c{
+    margin-left:790px ;
+    margin-top: 100px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 5, 0, 0);
+    border: solid rgba(0, 0, 0, 0) 1px;
+}
+.d{
+    margin-left: 1150px;
+    margin-bottom: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(68, 1, 1);
+    border: solid rgba(0, 0, 0, 0) 1px;
+
+}
